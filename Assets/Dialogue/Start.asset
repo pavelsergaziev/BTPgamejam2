@@ -9,26 +9,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: d9aa07bb8a3c013458eef7353a76f734, type: 3}
   m_Name: Start
-  m_EditorClassIdentifier: Assembly-CSharp::DialogueSO
+  m_EditorClassIdentifier: 
   _lines:
   - SpeakerId: 4
     Line: Top of the morning to ya!
   - SpeakerId: 3
-    Line: Hiya yourself, hat guy!
+    Line: Hiya yourself, mister hat!
   - SpeakerId: 1
-    Line: I'm so excited for this trip!
+    Line: Oh, I'm so excited for today's journey!
   - SpeakerId: 2
-    Line: Don't see anything to be excited about.
-  - SpeakerId: 2
-    Line: Just gathering some healthy comets is all.
+    Line: Nothing to be excited about. We're just going hunting for some healthy comets.
   - SpeakerId: 1
-    Line: And they'll definitely be tasty-tasty sweet munchy-munchy.
+    Line: And they will be tasty-tasty sweet munchy-munchy!
   - SpeakerId: 3
-    Line: Is that even a language? You sound like a monkey chirping.
+    Line: You do everything to look cute, right? This isn't even a real language.
   - SpeakerId: 4
-    Line: My good folks, please stop your squabbles!
+    Line: Please stop your squabbling, my good folks! Prepare to catch the comets!
   - SpeakerId: 4
-    Line: Let's enjoy the meal, and don't forget that our dear Star can't eat those,
-      they'll just burn.
+    Line: And don't forget that our dear Star can't eat them, the comets will just
+      burn.

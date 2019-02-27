@@ -18,10 +18,10 @@ public class GameManager : MonoBehaviour
     private float _gameStagesSwitcherDelay = 1f;
 
     [SerializeField]
-    private DialogueSO _startingDialogue, _middleDialogue, _finalDialogueGood, _finalDialogueBad;
+    private DialogueElementSO _startingDialogue, _middleDialogue, _finalDialogueGood, _finalDialogueBad;
 
     [SerializeField]
-    private DialogueSO[] _idleDialoguesGood, _healDialogues, _damageDialogues, _deathDialogues;
+    private DialogueElementSO[] _idleDialoguesGood, _healDialogues, _damageDialogues, _deathDialogues;
 
     [SerializeField]
     private float _dialogueLineShowTime;

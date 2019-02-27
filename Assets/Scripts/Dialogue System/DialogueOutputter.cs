@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class DialogueOutputter
 {
-    private DialogueSO _dialogue;
+    private DialogueElementSO _dialogue;
     private int _index;
     private SpeakerAndLine _speakerAndLine;
 
@@ -29,7 +29,7 @@ public class DialogueOutputter
         }
     }
 
-    public void LoadDialogue(DialogueSO dialogue)
+    public void LoadDialogue(DialogueElementSO dialogue)
     {
         _dialogue = dialogue;
         Debug.Log(_dialogue);

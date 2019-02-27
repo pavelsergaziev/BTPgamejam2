@@ -9,23 +9,25 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: d9aa07bb8a3c013458eef7353a76f734, type: 3}
   m_Name: Middle
-  m_EditorClassIdentifier: Assembly-CSharp::DialogueSO
+  m_EditorClassIdentifier: 
   _lines:
-  - SpeakerId: 3
-    Line: Well, it wasn't half bad.
+  - SpeakerId: 2
+    Line: That was actually pretty good.
   - SpeakerId: 1
-    Line: I told you, I told you! Yummy-yummy!
-  - SpeakerId: 2
-    Line: Umm... What is that?
-  - SpeakerId: 4
-    Line: Oh my Star... I think we're in a pickle.
+    Line: I told you! I told you! Yummy-yummy!
   - SpeakerId: 3
-    Line: What? What's wrong?
-  - SpeakerId: 4
-    Line: There're asteroids incoming. And they don't look edible at all.
+    Line: Oh my Star... Here we go again...
   - SpeakerId: 2
-    Line: They look dangerous. Don't let them hit you!
+    Line: Wait... What is that?
+  - SpeakerId: 4
+    Line: Oh no... I'm afraid we're in a pickle.
+  - SpeakerId: 3
+    Line: What is going on? What do you see?
+  - SpeakerId: 4
+    Line: Asteroids! Lots of them! And they look dangerous.
+  - SpeakerId: 2
+    Line: Don't let them hit you!
   - SpeakerId: 1
     Line: I'm scared...
