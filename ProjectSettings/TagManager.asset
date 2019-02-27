@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mini Planet
+  - Player Star
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Asteroids
+  - Planets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2044889385
+    locked: 0
+  - name: Background Objects
+    uniqueID: 4034637583
+    locked: 0
+  - name: Orbits
+    uniqueID: 1113424657
+    locked: 0
+  - name: Planets
+    uniqueID: 3345345235
+    locked: 0
+  - name: Asteroids
+    uniqueID: 1677877631
+    locked: 0
+  - name: FX
+    uniqueID: 1651339473
+    locked: 0

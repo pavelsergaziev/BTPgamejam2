@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Start
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSO
+  _lines:
+  - SpeakerId: 4
+    Line: Top of the morning to ya!
+  - SpeakerId: 3
+    Line: Hiya yourself, hat guy!
+  - SpeakerId: 1
+    Line: I'm so excited for this trip!
+  - SpeakerId: 2
+    Line: Don't see anything to be excited about.
+  - SpeakerId: 2
+    Line: Just gathering some healthy comets is all.
+  - SpeakerId: 1
+    Line: And they'll definitely be tasty-tasty sweet munchy-munchy.
+  - SpeakerId: 3
+    Line: Is that even a language? You sound like a monkey chirping.
+  - SpeakerId: 4
+    Line: My good folks, please stop your squabbles!
+  - SpeakerId: 4
+    Line: Let's enjoy the meal, and don't forget that our dear Star can't eat those,
+      they'll just burn.
